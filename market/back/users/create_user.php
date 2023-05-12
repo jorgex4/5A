@@ -17,4 +17,3 @@
         header("refresh:0;url=http://127.0.0.1/5A/market/front/create_user.html");
 }
 ?>
-
